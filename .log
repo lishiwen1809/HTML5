@@ -1,0 +1,108 @@
+!SESSION 2018-12-19 23:28:23.126 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2018-12-19 23:28:34.571
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-12-20 00:25:00.171
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.IndexJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2018-12-20 00:25:00.184
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.PingJob
+!SESSION 2018-12-30 13:14:29.689 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2018-12-30 13:14:35.906
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.513
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“content”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.534
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“delay”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.542
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“placement”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.561
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“title”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.597
+!MESSAGE (Build null) [ERROR]  无效的属性类型“boolean or the string 'static'”属性“backdrop”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.614
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“offset”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.669
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“offset”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.705
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“delay”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.771
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“placement”
+
+!ENTRY com.aptana.parsing 4 0 2018-12-30 13:19:17.824
+!MESSAGE (Build null) [ERROR]  无效的属性类型“?”属性“title”
+!SESSION 2019-01-01 14:18:11.698 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2019-01-01 14:18:22.589
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+!SESSION 2019-01-01 19:44:28.595 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2019-01-01 19:44:32.883
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-01 21:00:47.054
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.PingJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-01 21:00:47.079
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.IndexJob
+!SESSION 2019-01-06 21:50:05.782 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2019-01-06 21:50:15.600
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-06 22:50:06.592
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.PingJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-06 22:50:06.642
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.IndexJob
+!SESSION 2019-01-19 10:35:59.087 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.pandora.core.utils 4 0 2019-01-19 10:36:09.069
+!MESSAGE (Build null) [ERROR]  Indexer process rmi server started on port 45678
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-19 10:43:22.058
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.IndexJob
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-01-19 10:43:22.079
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.pandora.index.application.PingJob
